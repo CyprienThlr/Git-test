@@ -1,4 +1,4 @@
-import PyQt5
+import PyQt
 from PyQt5.QtWidgets import QApplication, QMainWindow, QWidget, QVBoxLayout, QPushButton, QLineEdit, QListWidget
 
 tasks = []
